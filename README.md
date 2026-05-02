@@ -7,7 +7,7 @@ The primary goal of this repository is to demonstrate and practice the following
 *   **CI/CD Fundamentals:** Automating builds and testing using GitHub Actions.
 *   **Build Automation:** Managing project lifecycles and dependencies with Maven.
 
-## 🛠 Tech Stack
+## Tech Stack
 *   **Backend:** Java, Spring Boot (Web)
 *   **Build Tool:** Maven
 *   **Containers:** Docker
